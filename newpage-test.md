@@ -9,7 +9,7 @@ nav_order: 2
 
 ## Section Test pdf
 
-<embed src="https://github.com/LoRosset/test-website-bmk.github.io/blob/89ad7a16cbb0a8f2427fe4b3e1daebc422a0d5ac/BMK%20Volume%201%20of%206%20.pdf" type="application/pdf" />
+<object data="BMK_Landing_pages.pdf" width="1000" height="1000" type='application/pdf'></object>
 
 ## Section Diagram
 
