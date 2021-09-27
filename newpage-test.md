@@ -9,7 +9,7 @@ nav_order: 2
 
 ## Section Test pdf
 
-<object data="./BMK_Landing_pages.pdf" width="1200" height="700" type='application/pdf'></object>
+<object data="{{./BMK_Landing_pages.pdf}}" width="1200" height="700" type='application/pdf'></object>
 
 ## Section Diagram
 
