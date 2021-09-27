@@ -9,7 +9,7 @@ nav_order: 2
 
 ## Section Test pdf
 
-<embed src="https://github.com/LoRosset/test-website-bmk.github.io/blob/38efd2f07bab31ddc7016e4f5e0e0784104c874b/BMK_Landing_pages.pdf" width="1000" height="1000" type="application/pdf" />
+<embed src="./blob/38efd2f07bab31ddc7016e4f5e0e0784104c874b/BMK_Landing_pages.pdf" width="1000" height="1000" type="application/pdf" />
 
 
 
