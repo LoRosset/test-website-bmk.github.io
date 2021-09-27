@@ -9,7 +9,9 @@ nav_order: 2
 
 ## Section Test pdf
 
-<object data="BMK_Landing_pages.pdf" width="1000" height="1000" type='application/pdf'></object>
+<object data="https://github.com/LoRosset/test-website-bmk.github.io/blob/38efd2f07bab31ddc7016e4f5e0e0784104c874b/BMK_Landing_pages.pdf" width="1000" height="1000" type='application/pdf'><p>The PDF cannot be displayed.</p></object>
+
+
 
 ## Section Diagram
 
