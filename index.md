@@ -4,47 +4,9 @@ title: Home
 nav_order: 1
 ---
 
-## Welcome to a BMK website test
+## ReCO2ST Business model kit's guide
+Buildings energy consumption in Europe represents more than 40% of the final energy consumption. The most challenging aspect of reducing energy use in building is in increasing the rate, quality, and effectiveness of building renovation since the current rate of renovation is only 1.2% per year and should increase by a factor of two to three to reach the EU 2030 targets. However, residential building retrofitting is not taking up. Among many different barriers, there is a lack of knowledge on the demand side, as Owners are not able to answer the multiple questions they are confronted with when initiating a renovation project. This Guidance document and its associated Toolkit aims to help the end-user in his decision- making process to retrofit residential multi buildings, ultimately, towards a NZEB (Nearly Zero-Energy Buildings) target. 
+![first questions](https://github.com/LoRosset/test-website-bmk.github.io/edit/gh-pages/first_questions.png?raw=true)
 
-### Test link to Volume 1
-[Click here to access volume 1](https://github.com/LoRosset/test-website-bmk.github.io/raw/main/BMK%20Volume%201%20of%206%20.pdf)
-
-
-
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/LoRosset/test-website-bmk.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/LoRosset/test-website-bmk.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Regarding Global Building Renovation, different views exist from the private owner, public authorities to experts in the domain. Each person has different issues, and the BMK (Business Model Kit) tries to answer them. This document is split into 6 different volumes. Access to the volumes and/or to their different parts may be granted from various links in the following sections 
+![modular structure](https://github.com/LoRosset/test-website-bmk.github.io/edit/gh-pages/modular_graph.png?raw=true)
